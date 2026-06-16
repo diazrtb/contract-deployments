@@ -303,3 +303,4 @@ This template is used to pause or un-pause the L1 SuperchainConfig contract.
 1. Once executed, check in the records files and mark the task `EXECUTED` in the README.
 
 Holy these lines of codes brother !
+text commit
