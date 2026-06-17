@@ -304,3 +304,4 @@ This template is used to pause or un-pause the L1 SuperchainConfig contract.
 
 Holy these lines of codes brother !
 text commit
+contract N2 deployed
